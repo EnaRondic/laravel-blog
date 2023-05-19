@@ -12,7 +12,7 @@
                         </a>
                     </li>
                     <li class="list-inline-item">
-                        <a target="_blank" href="https://www.instagram.com/___nikolap___/">
+                        <a target="_blank" href="https://www.instagram.com/enarondic/">
                             <span class="fa-stack fa-lg">
                                 <i class="fas fa-circle fa-stack-2x"></i>
                                 <i class="fab fa-instagram -f fa-stack-1x fa-inverse"></i>
@@ -20,7 +20,7 @@
                         </a>
                     </li>
                     <li class="list-inline-item">
-                        <a target="_blank" href="https://github.com/DzonikaStorm">
+                        <a target="_blank" href="https://github.com/EnaRondic">
                             <span class="fa-stack fa-lg">
                                 <i class="fas fa-circle fa-stack-2x"></i>
                                 <i class="fab fa-github fa-stack-1x fa-inverse"></i>

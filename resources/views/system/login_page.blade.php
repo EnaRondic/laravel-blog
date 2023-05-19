@@ -11,7 +11,7 @@
     <meta name="theme-color" content="#fff">
 
     <!-- Meta info -->
-    <meta name="author" content="Nikola Pejović">
+    <meta name="author" content="Ena Rondić">
     <!-- Website Description -->
     <meta name="description" content="#">
     <meta name="keywords" content="blog nature pets sport">

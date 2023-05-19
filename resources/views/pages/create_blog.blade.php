@@ -45,7 +45,7 @@
                 <div class="col-md-10 col-lg-8 col-xl-7">
                     <div class="site-heading">
                         <h1>Edwin's Blog</h1>
-                        <span class="subheading">by <a href="https://github.com/DzonikaStorm" target="_blank">Nikola Pejović</a></span>
+                        <span class="subheading">by <a href="https://github.com/EnaRondic" target="_blank">Ena Rondić</a></span>
                     </div>
                 </div>
             </div>
